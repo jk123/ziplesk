@@ -13,9 +13,13 @@ Install pycrypt to your Plesk Panel server, run ziplesk.py and copy the .zmp fil
 then..
 
 su - zimbra
+
 zmprov -f domains.zmp
+
 zmprov -f accounts.zmp
+
 zmprov -f aliases.zmp
+
 
 .. and wait for each of these to complete before proceeding to next one. I still have some problems with aliases.
 

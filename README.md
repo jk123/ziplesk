@@ -41,3 +41,6 @@ http://wiki.zimbra.com/wiki/Bulk_Provisioning
 
 https://www.rackerbox.com/wiki/index.php/Plesk_MySQL_queries
 
+BEWARE!! LEAVING THE ZMP FILES AROUND CAN REVEAL USER PASSWORDS FOR WRONG PERSONS!
+
+
